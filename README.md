@@ -1,2 +1,3 @@
-# 経済動学講義資料
+# Linear Economic Dynamics
 
+Translation from https://led.kenjisato.jp/

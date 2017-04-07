@@ -1,21 +1,5 @@
 book_filename: "linear-economic-dynamics"
 output_dir: "_book"
-language:
-  label:
-    fig: '図 '
-    tab: '表 '
-    eq: '式 '
-    thm: '定理 '
-    lem: '補題 '
-    def: '定義 '
-    cor: '系 '
-    prp: '命題 '
-    ex: '例 '
-    proof: '証明. '
-    remark: '補足 '
-  ui:
-    edit: Edit
-    chapter_name: ['第', '章']
 
 rmd_files:
   - index.Rmd
